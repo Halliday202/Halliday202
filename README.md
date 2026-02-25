@@ -15,7 +15,7 @@ I enjoy building web applications, experimenting with tech projects, and constan
 
 Become a professional full-stack developer
 
-Currently learning: Tinkering with microcontrollers (I got a couple of ESPs).
+Currently learning: **Tinkering with microcontrollers** (I got a couple of ESPs).
 
 Interested in: Web apps, software systems, and security
 
@@ -31,8 +31,9 @@ Languages
 <img src="https://skillicons.dev/icons?i=Supabase,nodejs,mysql" />
 
 ### - Tools & Others
-<img src="https://skillicons.dev/icons?i=postman,github,vscode,figma,discord,antigravity,cursor,vercel,netlify,paystack" />
+<img src="https://skillicons.dev/icons?i=postman,github,vscode,figma,discord,antigravity,cursor,vercel,netlify,paystack" /></br>
 
+Reach me at: **[michael@halliday.cv](mailto:michael@halliday.cv)**
 
 Fun Facts
 Coding with some Spotify tunes.
