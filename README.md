@@ -33,12 +33,12 @@ Languages
 ### - Tools & Others
 <img src="https://skillicons.dev/icons?i=postman,github,vscode,figma,discord,antigravity,cursor,vercel,netlify,paystack" /></br>
 
-Reach me at: **[michael@halliday.cv](mailto:michael@halliday.cv)**
+Reach me at: **[michael@halliday.cv](mailto:michael@halliday.cv)**</br>
 
-Fun Facts
-Coding with some Spotify tunes.
-One Piece fan.
-I love motorsports.
+Fun Facts<br>
+Coding with some Spotify tunes.<br>
+One Piece fan.<br>
+I love motorsports.<br>
 
 
 
