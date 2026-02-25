@@ -38,7 +38,10 @@ Reach me at: **[michael@halliday.cv](mailto:michael@halliday.cv)**</br>
 Fun Facts<br>
 Coding with some Spotify tunes.<br>
 One Piece fan.<br>
-I love motorsports.<br>
+I love motorsports.</br>
+
+
+![giphy](https://github.com/user-attachments/assets/05506db6-9d8f-4e1f-b754-8acc69c31d58)
 
 
 
