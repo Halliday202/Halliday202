@@ -1,9 +1,9 @@
 Hi, I’m Halliday
 
-**Computer Science** student
-Aspiring **Full-Stack Developer**
-Exploring **Cybersecurity**
-Tech enthusiast who loves building and learning almost anything.
+**Computer Science** student<br>
+Aspiring **Full-Stack Developer**<br>
+Exploring **Cybersecurity**<br>
+Tech enthusiast who loves building and learning almost anything.<br>
 
 
 About Me
