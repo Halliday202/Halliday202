@@ -4,7 +4,7 @@ Hi, I’m Halliday
 Aspiring **Full-Stack Developer**<br>
 Exploring **Cybersecurity**<br>
 Tech enthusiast who loves building and learning almost anything.<br>
-
+</br>
 
 About Me
 
