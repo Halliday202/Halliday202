@@ -33,7 +33,7 @@ Languages
 ### - Tools & Others
 <img src="https://skillicons.dev/icons?i=postman,github,vscode,figma,discord,antigravity,cursor,vercel,netlify,paystack" /></br>
 
-Reach me at: **[michael@halliday.cv](mailto:michael@halliday.cv)**</br>
+Reach me at: **[hello@halliday.cv](mailto:hello@halliday.cv)**</br>
 
 Fun Facts<br>
 Coding with some Spotify tunes.<br>
