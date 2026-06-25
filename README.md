@@ -5,4 +5,5 @@
 -  Reach me at: **[hello@halliday.cv](mailto:hello@halliday.cv)**</br> 
 
 About
+
 I'm a casual gamer.	What i do mostly during my leisure is either brainstorm some ideas or watch anime. I also love to read about stuff that I might never get into,like malware(I follow vx-underground) which seems super interesting sometimes.
