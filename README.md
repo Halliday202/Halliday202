@@ -1,49 +1,8 @@
-<div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Geist+Mono&size=32&duration=3000&pause=1000&color=0EA5E9&center=false&vCenter=true&width=700&lines=Frontend+Developer;Code+Hard,+Sleep?......+What's+That????;Michael+Appiah+Kwasi+hehe+!!" alt="Typing Animation" />
-</div></br>
+- Hi, I'm Michael Appiah Kwasi.
+- I am a Computer Science major at GCTU and I have immense knowledge in Web development. I am proficient in web development and UI/UX design.
+-  I’ve built some cool hotel management and reservation systems.
+- ️ I’m looking to help build full stack systems.
+-  Reach me at: **[hello@halliday.cv](mailto:hello@halliday.cv)**</br> 
 
-**Computer Science** student<br>
-Aspiring **Full-Stack Developer**<br>
-Exploring **Cybersecurity**<br>
-Tech enthusiast who loves building and learning almost anything.<br>
-</br>
-
-About Me
-
-I’m a CS student passionate about turning ideas into real, usable software.
-I enjoy building web applications, experimenting with tech projects, and constantly expanding my development skills.
-
-Become a professional full-stack developer
-
-Currently learning: **Tinkering with microcontrollers** (I got a couple of ESPs).
-
-Interested in: Web apps, software systems, and security
-
-Always improving problem-solving and coding skills
-
-
-Tech Stack
-Languages
-### - Frontend
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,bootstrap" />
-
-### - Backend
-<img src="https://skillicons.dev/icons?i=Supabase,nodejs,mysql" />
-
-### - Tools & Others
-<img src="https://skillicons.dev/icons?i=postman,github,vscode,figma,discord,antigravity,cursor,vercel,netlify,paystack" /></br>
-
-Reach me at: **[hello@halliday.cv](mailto:hello@halliday.cv)**</br>
-
-Fun Facts<br>
-Coding with some Spotify tunes.<br>
-One Piece fan.<br>
-I love motorsports.</br>
-
-
-![giphy](https://github.com/user-attachments/assets/05506db6-9d8f-4e1f-b754-8acc69c31d58)
-
-
-
-
-
+About
+I'm a casual gamer.	What i do mostly during my leisure is either brainstorm some ideas or watch anime. I also love to read about stuff that I might never get into,like malware(I follow vx-underground) which seems super interesting sometimes.
